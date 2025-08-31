@@ -17,5 +17,9 @@ Este projeto é uma **landing page de filmes** desenvolvido como parte de estudo
 Praticar criação de **layouts atrativos**, organização de conteúdo em **cards** e destaque de elementos importantes utilizando **Bootstrap**.
 
 ## 👀 Como Visualizar
-1. Clone este repositório ou faça o download dos arquivos. 
-2. Abra o arquivo `index.html` em qualquer navegador.
+1. Clone este repositório ou faça o download dos arquivos.  
+2. Ou acesse diretamente pelo link em qualquer navegador:
+
+```bash
+https://larissasantos2.github.io/cine-on/
+
