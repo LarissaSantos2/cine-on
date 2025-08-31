@@ -1,6 +1,6 @@
-# 🎬 Site de Filmes
+# 🎬 Landing Page de Filmes
 
-Este projeto é um **site de filmes** desenvolvido como parte de estudo e prática em **HTML, CSS e Bootstrap**.  
+Este projeto é uma **landing page de filmes** desenvolvido como parte de estudo e prática em **HTML, CSS e Bootstrap**.  
 O site apresenta um **filme em destaque** e uma seleção de outros filmes logo abaixo, proporcionando uma experiência visual simples e organizada.
 
 ## 🖥️ Funcionalidades
