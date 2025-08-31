@@ -16,7 +16,6 @@ body {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  margin: 0 60px 0 60px;
 }
 
 /* Nav */
@@ -46,7 +45,7 @@ body {
   border-radius: 30px;
   padding: 7px 20px;
   float: right;
-  margin-top: 15px;
+  margin-top: 18px;
   color: #fff;
   background-color: blue;
   font-weight: 600;
@@ -56,7 +55,8 @@ body {
 
 /* Filmes */
 .movie-details {
-  margin: 3% 0;
+  margin-top: 40px;
+  margin-bottom: 30px;
 }
 
 .left-box {
