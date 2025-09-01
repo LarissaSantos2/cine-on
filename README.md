@@ -18,7 +18,7 @@ Praticar criação de **layouts atrativos**, organização de conteúdo em **car
 
 ## 👀 Como Visualizar
 1. Clone este repositório ou faça o download dos arquivos.  
-2. Ou acesse diretamente pelo link em qualquer navegador:
+2. Acesse diretamente pelo link em qualquer navegador:
 
 ```bash
 https://larissasantos2.github.io/cine-on/
