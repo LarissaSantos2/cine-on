@@ -32,7 +32,7 @@ body {
 .title {
   font-size: 2.2rem;
   text-decoration: none;
-  color: #0b15d0;
+  color: #8615d1;
   font-weight: 600;
 }
 
@@ -47,7 +47,7 @@ body {
   float: right;
   margin-top: 18px;
   color: #fff;
-  background-color: blue;
+  background-color: #8615d1;
   font-weight: 600;
   width: 150px;
   text-align: center;
@@ -66,13 +66,13 @@ body {
 }
 
 .left-box p {
-    margin-top: 6px;
-    font-size: 14px;
-    text-align: justify;
+  margin-top: 6px;
+  font-size: 14px;
+  text-align: justify;
 }
 
 .elenco {
-    font-weight: 600;
+  font-weight: 600;
 }
 
 .casting img {
@@ -84,13 +84,13 @@ body {
 }
 
 .left-box a {
-    width: 200px;
-    text-align: center;
+  width: 200px;
+  text-align: center;
   text-decoration: none;
   border-radius: 30px;
   padding: 10px;
   color: #fff;
-  background-color: blue;
+  background-color: #8615d1;
   font-weight: 600;
   display: inline-block;
   margin: 30px 20px 0 0;
@@ -106,21 +106,23 @@ body {
   box-shadow: -4px 4px 5px 0 #000;
 }
 
+/* Filmes Listados */
 .movies h3 {
-    color: #fff;
-    margin-top: -30px;
+  color: #fff;
+  margin-top: -30px;
 }
 
 .movies img {
-    margin-top: 15px;
-    width: 100%;
-    height: 170px;
-    box-shadow: -4px 4px 5px 0 #000;
-    cursor: pointer;
-     transition: transform 0.4s ease-in-out, box-shadow 0.4s ease-in-out; 
+  margin-top: 15px;
+  width: 100%;
+  height: 170px;
+  box-shadow: -4px 4px 5px 0 #000;
+  cursor: pointer;
+  transition: transform 0.4s ease-in-out, box-shadow 0.4s ease-in-out;
 }
 
+/* efeito foco nos filmes listados ao passar o mouse */
 .movies img:hover {
-      transform: scale(1.08);
+  transform: scale(1.08);
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
 }
